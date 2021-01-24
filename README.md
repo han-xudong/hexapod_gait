@@ -1,3 +1,27 @@
 # Gait Analysis and Stable Walking of Hexapod Robot
 
 Hexapod robot is one of the most stable robot configurations, but also has high flexibility. The motion form of hexapod robot includes three common gait and in situ rotation. This project hopes to plan the smooth motion through inverse kinematics calculation and simulation, and finally realize it on Robotis platform.
+
+![image](https://github.com/hanxudong159/Gait_Analysis_and_Stable_Walking_of_Hexapod_Robot/blob/main/figure/f1.jpg)
+![image](https://github.com/hanxudong159/Gait_Analysis_and_Stable_Walking_of_Hexapod_Robot/blob/main/figure/f2.jpg)
+![image](https://github.com/hanxudong159/Gait_Analysis_and_Stable_Walking_of_Hexapod_Robot/blob/main/figure/f3.jpg)
+![image](https://github.com/hanxudong159/Gait_Analysis_and_Stable_Walking_of_Hexapod_Robot/blob/main/figure/f4.jpg)
+![image](https://github.com/hanxudong159/Gait_Analysis_and_Stable_Walking_of_Hexapod_Robot/blob/main/figure/f5.jpg)
+![image](https://github.com/hanxudong159/Gait_Analysis_and_Stable_Walking_of_Hexapod_Robot/blob/main/figure/f6.jpg)
+![image](https://github.com/hanxudong159/Gait_Analysis_and_Stable_Walking_of_Hexapod_Robot/blob/main/figure/f7.jpg)
+![image](https://github.com/hanxudong159/Gait_Analysis_and_Stable_Walking_of_Hexapod_Robot/blob/main/figure/f8.jpg)
+![image](https://github.com/hanxudong159/Gait_Analysis_and_Stable_Walking_of_Hexapod_Robot/blob/main/figure/f9.jpg)
+![image](https://github.com/hanxudong159/Gait_Analysis_and_Stable_Walking_of_Hexapod_Robot/blob/main/figure/f10.jpg)
+![image](https://github.com/hanxudong159/Gait_Analysis_and_Stable_Walking_of_Hexapod_Robot/blob/main/figure/f11.jpg)
+![image](https://github.com/hanxudong159/Gait_Analysis_and_Stable_Walking_of_Hexapod_Robot/blob/main/figure/f12.jpg)
+![image](https://github.com/hanxudong159/Gait_Analysis_and_Stable_Walking_of_Hexapod_Robot/blob/main/figure/f13.jpg)
+![image](https://github.com/hanxudong159/Gait_Analysis_and_Stable_Walking_of_Hexapod_Robot/blob/main/figure/f14.jpg)
+![image](https://github.com/hanxudong159/Gait_Analysis_and_Stable_Walking_of_Hexapod_Robot/blob/main/figure/f15.jpg)
+![image](https://github.com/hanxudong159/Gait_Analysis_and_Stable_Walking_of_Hexapod_Robot/blob/main/figure/f16.jpg)
+![image](https://github.com/hanxudong159/Gait_Analysis_and_Stable_Walking_of_Hexapod_Robot/blob/main/figure/f17.jpg)
+![image](https://github.com/hanxudong159/Gait_Analysis_and_Stable_Walking_of_Hexapod_Robot/blob/main/figure/f18.jpg)
+![image](https://github.com/hanxudong159/Gait_Analysis_and_Stable_Walking_of_Hexapod_Robot/blob/main/figure/f19.jpg)
+![image](https://github.com/hanxudong159/Gait_Analysis_and_Stable_Walking_of_Hexapod_Robot/blob/main/figure/f20.jpg)
+![image](https://github.com/hanxudong159/Gait_Analysis_and_Stable_Walking_of_Hexapod_Robot/blob/main/figure/f21.jpg)
+![image](https://github.com/hanxudong159/Gait_Analysis_and_Stable_Walking_of_Hexapod_Robot/blob/main/figure/f22.jpg)
+![image](https://github.com/hanxudong159/Gait_Analysis_and_Stable_Walking_of_Hexapod_Robot/blob/main/figure/f23.jpg)
